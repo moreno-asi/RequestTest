@@ -1,0 +1,27 @@
+
+server:
+  port: 8086
+
+#spring:
+#  data:
+#    mongodb:
+#      #uri:
+#      database: database1
+#      hosts: "localhost," #mongodb.hosts=localhost,
+#      ports: "27017," #mongodb.ports=27017,
+#      replicaset: "" #mongodb.replicaset
+#      data:
+#        user: gestor #mongodb.user
+#        password: gestor #mongodb.password
+#        dbname: dbGestor #mongodb.name
+#      hits:
+#        user: hits #mongodb.hits.user
+#        password: hits #mongodb.hits.password
+#        dbname: hits #mongodb.hits.dbname
+#
+#
+#  database2:
+#    mongodb:
+#      #uri: "mongodb://cmsagency:giascaoby@interdc01:27017,interdc02:27017,interdc03:27017/cms-agency?replicaSet=GesReplSet"
+#      database: database2
+#      uri: "mongodb://mongoadmin:mongoadmin@localhost:27017/admin"
